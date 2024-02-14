@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Your MLL model</h1>
+    <h1>Your LLM model</h1>
 	<h2>Upload your data to make to get predictions</h2>
     <img
       alt="Vue logo"
